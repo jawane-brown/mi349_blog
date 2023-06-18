@@ -99,3 +99,16 @@ h2 {
     textarea {
         resize: vertical;
       }   
+
+      aside {
+        position: sticky;
+        top: 20px;
+      }
+      
+ 
+      aside {
+        background-color: #f9f9f9;
+        padding: 10px;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+      }
