@@ -30,3 +30,14 @@ p {
     border-bottom: 1px dotted #ccc;
 
 }
+
+
+h3 {
+    font-size: 2em;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+
+section {
+    display: flex;
+}
