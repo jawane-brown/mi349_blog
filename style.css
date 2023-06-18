@@ -71,3 +71,12 @@ h3 {
     padding: 20px;
   }
   
+  main h2 {
+    font-size: 28px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  main p {
+    margin-bottom: 10px;
+  }
