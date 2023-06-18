@@ -34,10 +34,26 @@ p {
 
 h3 {
     font-size: 2em;
-    margin-top: 20px;
-    margin-bottom: 10px;
+    margin: 0;
   }
 
 section {
     display: flex;
 }
+
+.blog-post .author {
+    font-style: italic;
+    margin-bottom: 5px;
+  }
+  
+  .blog-post time {
+    font-size: 14px;
+    color: #888;
+    margin-bottom: 10px;
+  }
+  
+  .blog-post img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
