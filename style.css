@@ -112,3 +112,12 @@ h2 {
         border: 1px solid #888;
         border-radius: 4px;
       }
+
+      main.container {
+        display: flex;
+      }
+      
+      main.container > * {
+        flex: 1;
+      }
+      
