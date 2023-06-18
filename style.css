@@ -80,3 +80,14 @@ h3 {
   main p {
     margin-bottom: 10px;
   }
+
+  input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+
+    textarea {
+        resize: vertical;
+      }   
