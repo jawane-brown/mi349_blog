@@ -33,7 +33,7 @@ p {
 
 
 h3 {
-    font-size: 2em;
+    font-size: 3em;
     margin: 0;
   }
 
@@ -53,4 +53,9 @@ h3 {
     max-width: 100%;
     height: auto;
     margin-bottom: 10px;
+  }
+
+  section form label {
+    font-weight: bold;
+    margin-right: 10px;
   }
